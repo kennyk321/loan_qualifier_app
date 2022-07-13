@@ -101,6 +101,17 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
+def save_csv(output_path, header, data):
+   
+
+    # @TODO: Use the csv library and `csv.writer` to write the header row
+    # and each row of `loan.values()` from the `inexpensive_loans` list.
+    with open (output_path, 'w', newline='') as csvfile: 
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow(header)
+        csvwriter.writerows(data)
+
+
 
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
@@ -109,6 +120,7 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
+    
     
 
 def run():
