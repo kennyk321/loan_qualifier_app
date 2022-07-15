@@ -1,0 +1,207 @@
+   50  ssh-add ~/.ssh/id_rsa
+   51  pbcopy < ~/.ssh/id_rsa.pub
+   52  pbcopy < ~/.ssh/id_rsa.pub\n\n
+   53  pbcopy < ~/.ssh/id_rsa.pub
+   54  pbcopy < ~/.ssh/id_rsa.pub
+   55  conda init zsh 
+   56  conda install -c conda-forge nodejs
+   57  python -m ipykernel install --user --name dev
+   58  conda deactivate 
+   59  cd Desktop
+   60  mkdir test
+   61  touch sample.txt
+   62  cd test
+   63  ls
+   64  cd ..
+   65  mv sample.txt test
+   66  cd test
+   67  ls
+   68  touch sample2.txt
+   69  ls
+   70  cd Desktop
+   71  cd Desktop
+   72  cd desktop 
+   73  mkdir test
+   74  touch sample.txt
+   75  cd test
+   76  ls
+   77  cd..
+   78  cd ..
+   79  mv sample.txt test 
+   80  cd test
+   81  ls
+   82  conda activate dev
+   83  jupyter lab
+   84  conda deactivate
+   85  conda activate dev
+   86  jupyter lab
+   87  conda deactivater
+   88  conda deactivate
+   89  conda create -n dev python=3.7 anaconda
+   90  conda activate dev
+   91  echo ${SHELL}
+   92  conda init zsh
+   93  conda deactivate
+   94  pwd
+   95  ls
+   96  cd
+   97  cd deskttop
+   98  cd desktop
+   99  pwd
+  100  mkdir FinTech 
+  101  ls
+  102  cd ..
+  103  pwd 
+  104  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/Python_Project/hello_python.py
+  105  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/Python_Project/hello_python.py
+  106  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/Python_Project/hello_python.py
+  107  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/Python_Project/hello_python.py
+  108  ls
+  109  cd code .
+  110   /usr/bin/env /usr/local/bin/python3 /Users/kk/.vscode/extensions/ms-python.python-2022.8.1/pythonFiles/lib/python/debugpy/launcher 58183 -- /Users/kk/Desktop/Class_2_Activities/05_Stu_Conditionals/Unsolved/conditionals.py 
+  111  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Python_Project/hello_python.py
+  112  /usr/local/bin/python3 /Users/kk/Desktop/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  113  /usr/local/bin/python3 /Users/kk/Desktop/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  114  /usr/local/bin/python3 /Users/kk/Desktop/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  115  /usr/local/bin/python3 /Users/kk/Desktop/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  116  /usr/local/bin/python3 /Users/kk/Desktop/Class_3_Activities_Wk2/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  117  /usr/local/bin/python3 /Users/kk/Desktop/Class_3_Activities_Wk2/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  118  /usr/local/bin/python3 /Users/kk/Desktop/Class_3_Activities_Wk2/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  119  /usr/local/bin/python3 /Users/kk/Desktop/Class_3_Activities_Wk2/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  120  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  121  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  122  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  123  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  124  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  125  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/02_Listing_Assets/Solved/listing_assets.py
+  126  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  127  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  128  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  129  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  130  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  131  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  132  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  133  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  134  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  135  conda -- v 
+  136  conda activate dev 
+  137  conda --v
+  138  conda create -n atmdev
+  139  conda activate atmdev
+  140  ls
+  141  cd Class_4_Activities_Wk2
+  142   /usr/bin/env /usr/local/bin/python3 /Users/kk/.vscode/extensions/ms-python.python-2022.8.1/pythonFiles/lib/python/debugpy/launcher 63375 -- /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py 
+  143  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  144  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  145  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  146  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  147  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  148  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  149  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  150  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  151  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  152  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  153  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  154  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  155  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  156  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  157  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  158  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  159  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  160  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  161  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  162  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  163  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  164  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  165  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  166  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  167  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  168  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  169  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  170  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  171  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  172  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  173  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  174  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  175  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  176  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  177  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  178  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  179  pip install questionary 
+  180  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  181  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  182  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  183  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  184  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  185  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  186  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  187  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  188  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  189  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  190  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  191  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  192  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  193  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  194  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  195  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  196  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  197  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  198  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  199  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  200  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  201  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Starter_Code/loan_analyzer.py
+  202  activate conda dev 
+  203  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  204  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  205  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  206  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/03_The_401k_Shuffle/Solved/the_401k_shuffle.py
+  207  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  208  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/01_Conditional_Statement/Solved/conditional_statement.py
+  209  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/01_Conditional_Statement/Unsolved/conditional_statement.py
+  210  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/01_Conditional_Statement/Unsolved/conditional_statement.py
+  211  conda activate dev 
+  212  pip -V
+  213  pip freeze
+  214  pip install fire
+  215  pip install questionary
+  216  /usr/local/bin/python3 Untitled-1
+  217  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/cli.py
+  218  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/cli.py
+  219  import fire
+  220  pwd
+  221  ls
+  222  pip install fire
+  223  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Module_2_Challenge/loan_qualifier_app/app.py
+  224  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Module_2_Challenge/loan_qualifier_app/app.py
+  225  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Module_2_Challenge/loan_qualifier_app/app.py
+  226  conda activate dev
+  227  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Module_2_Challenge/loan_qualifier_app/app.py
+  228  pip install fire
+  229  import fire
+  230  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Module_2_Challenge/loan_qualifier_app/app.py
+  231  pip3 install fire
+  232  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Module_2_Challenge/loan_qualifier_app/app.py
+  233  pip3 install questionary
+  234  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Module_2_Challenge/loan_qualifier_app/app.py
+  235  /usr/local/bin/python3 /Users/kk/Desktop/FinTech/FINTECH-WORKSPACE/Module_2_Challenge/loan_qualifier_app/app.py
+  236  /usr/local/bin/python3 /Users/kk/Desktop/loan_qualifier_app/app.py
+  237  /usr/local/bin/python3
+  238  cd ..
+  239  cd ..
+  240  ls
+  241  cd loan_qualifier_app
+  242  s
+  243  ls
+  244  python app.py
+  245  python app.py
+  246  python app.py
+  247  ls
+  248  output.csv
+  249  vim output.csv
+  250  git status
+  251  git add.
+  252  git add
+  253  git add .
+  254  git status
+  255  git commit -m "updating file"
+  256  git push
